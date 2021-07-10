@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![napo's GitHub stats](https://github-readme-stats.vercel.app/api?username=napo)](https://github.com/anuraghazra/github-readme-stats)
+[![napo's GitHub stats](https://github-readme-stats.vercel.app/api?username=napo)](https://github.com/napo)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=napo&layout=compact)](https://github.com/napo)
+
