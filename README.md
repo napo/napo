@@ -17,6 +17,11 @@ Here are some ideas to get you started:
 
 [![napo's GitHub stats](https://github-readme-stats.vercel.app/api?username=napo)](https://github.com/napo)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=napo&theme=default)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=napo&theme=default)![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShogoHirasawa&theme=default)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=napo&layout=compact)](https://github.com/napo)
 
 If you like you can 
