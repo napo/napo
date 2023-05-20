@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=napo&layout=compact)](https://github.com/napo)
 
+If you like you can [buy me a coffee](https://www.buymeacoffee.com/napo)
+
