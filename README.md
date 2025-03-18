@@ -1,4 +1,5 @@
-Hi! \ 
+Hi!
+
 I'm Maurizio Napolitano aka napo: a curious guy who likes to play with data and share the knowledge
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=napo&theme=default&show_icons=true&hide_border=true&count_private=true)
