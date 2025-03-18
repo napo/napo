@@ -1,5 +1,5 @@
 # Hi!
-## I'm napo a curious guy who likes to play with data and share the knowledge
+## I'm Maurizio Napolitano aka napo: a curious guy who likes to play with data and share the knowledge
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=napo&theme=default&show_icons=true&hide_border=true&count_private=true)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=napo&theme=default&show_icons=true&hide_border=true&layout=compact)
