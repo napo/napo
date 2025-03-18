@@ -3,7 +3,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=napo&theme=default&show_icons=true&hide_border=true&count_private=true)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=napo&theme=default&show_icons=true&hide_border=true&layout=compact)
-![GitHub Stats](https://streak-stats.demolab.com?user=napo&theme=default&hide_border=true)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=napo&date_format=j%20M%5B%20Y%5D)
 
 contribution graph \
 ![](github-contribution-grid-snake-dark.svg)
