@@ -1,4 +1,11 @@
-my github contribution graph \
+# Hi!
+## I'm napo a curious guy who likes to play with data and share the knowledge
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=napo&theme=default&show_icons=true&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=napo&theme=default&show_icons=true&hide_border=true&layout=compact)
+![GitHub Stats](https://streak-stats.demolab.com?user=napo&theme=default&hide_border=true)
+
+contribution graph \
 ![](github-contribution-grid-snake-dark.svg)
 <!--
 **napo/napo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
